@@ -15,11 +15,11 @@ I'm looking for my next role now, and I'd like it to be somewhere software helps
 
 ## Open source
 
-I've contributed to [Django](https://github.com/django/django) itself. Lately my time has gone into [writing](https://seanhelvey.com/blog.html) and small projects of my own, most recently [containerswap](https://github.com/seanhelvey/containerswap).
+I've contributed to [Django](https://github.com/django/django) itself. Lately my time has gone into [writing](https://seanhelvey.com/blog.html) and small projects of my own.
 
 Most of my work is closed source but here are some public repos:
 
-- **[containerswap](https://github.com/seanhelvey/containerswap)** is a neighborhood marketplace for passing on used food containers instead of binning them. Server-rendered FastAPI and Jinja2 on Supabase Postgres, no frontend build step. Listing locations are fuzzed before they are stored and every uploaded photo is re-encoded from raw pixels, so a pin never marks a front door and EXIF GPS cannot survive.
+- **[containerswap](https://github.com/seanhelvey/containerswap)** is a neighborhood marketplace for passing on used food containers instead of binning them. Server-rendered FastAPI and Jinja2 on Supabase Postgres, no frontend build step.
 - **[whos-got-the-ball](https://github.com/seanhelvey/whos-got-the-ball)** tracks current owner, pending action, and handoff history for clean energy contracts. Flask, SQLAlchemy, Strawberry GraphQL, React, TypeScript.
 - **[coloft](https://github.com/seanhelvey/coloft)** is an events calendar for a Humboldt collective, a static site with a JSON-driven build and test pipeline.
 - **[playground](https://github.com/seanhelvey/playground)** is a habit tracker in Go and SQLite, installable as a PWA, deploying itself to Fly.io.
