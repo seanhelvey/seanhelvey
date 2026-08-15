@@ -19,7 +19,7 @@ I've contributed to [Django](https://github.com/django/django) itself. Lately my
 
 Most of my work is closed source but here are some public repos:
 
-- **[containerswap](https://github.com/seanhelvey/containerswap)** is a neighborhood marketplace for passing on used food containers instead of binning them. Server-rendered FastAPI and Jinja2 on Supabase Postgres, no frontend build step.
+- **[containerswap](https://github.com/seanhelvey/containerswap)** ([live](https://fast-api-b7daf63f.fastapicloud.dev/)) is a neighborhood marketplace for passing on used food containers instead of binning them. Server-rendered FastAPI and Jinja2 on Supabase Postgres, no frontend build step.
 - **[whos-got-the-ball](https://github.com/seanhelvey/whos-got-the-ball)** tracks current owner, pending action, and handoff history for clean energy contracts. Flask, SQLAlchemy, Strawberry GraphQL, React, TypeScript.
 - **[coloft](https://github.com/seanhelvey/coloft)** is an events calendar for a Humboldt collective, a static site with a JSON-driven build and test pipeline.
 - **[playground](https://github.com/seanhelvey/playground)** is a habit tracker in Go and SQLite, installable as a PWA, deploying itself to Fly.io.
