@@ -19,11 +19,11 @@ I've contributed to [Django](https://github.com/django/django) itself. Lately my
 
 Most of my work is closed source but here are some public repos:
 
-- **[Secondhand Plastic](https://secondhandplastic.com/)** ([source](https://github.com/seanhelvey/containerswap)) matches secondhand food containers with people who'll use them, instead of the bin. Server-rendered FastAPI and Jinja2 on Supabase Postgres, no frontend build step.
+- **[Secondhand Plastic](https://secondhandplastic.com/)** ([source](https://github.com/seanhelvey/secondhandplastic)) matches secondhand food containers with people who'll use them, instead of the bin. Server-rendered FastAPI and Jinja2 on Supabase Postgres, no frontend build step.
+- **[The Mullet Stack](https://seanhelvey.github.io/mullet-stack/guide/)** ([source](https://github.com/seanhelvey/mullet-stack)) is a field guide to wiring modern Python and JavaScript together, built around one feature shipped across both. The frontend's types are generated from the backend's OpenAPI schema, so the two ends can't drift. FastAPI, Pydantic, React, TypeScript, Vitest.
 - **[whos-got-the-ball](https://github.com/seanhelvey/whos-got-the-ball)** tracks current owner, pending action, and handoff history for clean energy contracts. Flask, SQLAlchemy, Strawberry GraphQL, React, TypeScript.
 - **[coloft](https://github.com/seanhelvey/coloft)** is an events calendar for a Humboldt collective, a static site with a JSON-driven build and test pipeline.
 - **[playground](https://github.com/seanhelvey/playground)** is a habit tracker in Go and SQLite, installable as a PWA, deploying itself to Fly.io.
-- **[IntroToPythonForRUsers](https://github.com/seanhelvey/IntroToPythonForRUsers)** came out of a collaboration with R-Ladies Santa Barbara.
 
 ## Outside of code
 
