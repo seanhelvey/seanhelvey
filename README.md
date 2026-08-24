@@ -9,9 +9,9 @@ I'm looking for my next role now, and I'd like it to be somewhere software helps
 ## What I work with
 
 - **In production now:** Python, Django, JavaScript, jQuery, PostgreSQL, Docker, Kubernetes, Google Cloud (GKE, App Engine, Tasks), GitLab CI/CD, plus Claude Code and Copilot agent harnesses
-- **In production earlier:** Vue, Angular, Node.js, Flask, Jupyter, pandas
+- **In production earlier:** Vue, Angular, Node.js, Go, Flask, Jupyter, pandas
 - **Taught:** React and Redux to eight bootcamp cohorts at Galvanize
-- **On side projects:** FastAPI, SQLAlchemy, Supabase, Strawberry GraphQL, TypeScript, Go
+- **On side projects:** FastAPI, SQLAlchemy, Supabase, Strawberry GraphQL, TypeScript
 
 ## Open source
 
