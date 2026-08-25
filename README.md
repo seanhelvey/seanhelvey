@@ -4,7 +4,7 @@ Software engineer with fifteen years of experience, mostly in Python and Django 
 
 For the past five years I've been the lead developer at [Koinonia Family Services](https://www.kfh.org/), maintaining the Django application social workers use to care for foster families. It supports thousands of placements and roughly 200,000 days of care a year. The application runs on Kubernetes and App Engine, and I manage EHR integrations, HIPAA compliance, and the GitLab CI/CD pipeline I built to test and deploy it.
 
-I'm looking for my next role now, somewhere mission-driven where software helps people or the planet: climate, health, education, social services, civic tech. I'm open to any awesome humans doing good things with tech. Please feel free to reach out!
+I'm looking for my next role now, somewhere mission-driven where software helps people or the planet: climate, health, education, social services, civic tech. I'm open to any awesome humans doing good things. Please feel free to reach out!
 
 ## What I work with
 
